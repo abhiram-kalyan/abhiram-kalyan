@@ -1,4 +1,4 @@
-### Hi there 👋! Abhitam Kalyan here.
+### Hi there 👋! Abhiram Kalyan here.
 
 <!--
 **abhiram-kalyan/abhiram-kalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
