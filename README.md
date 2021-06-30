@@ -3,4 +3,4 @@
 - 👯 I’m looking to collaborate on Designing Web applications
 - 🤔 I’m looking for help with React
 - 💬 Ask me about JS
-- 📫 How to reach me: Mail:abhiramkalyan9@gmail.com
+- 📫 How to reach me: Mail: abhiramkalyan9@gmail.com
