@@ -23,7 +23,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/abhiram-kalyan-883445190/">
-    <img alt="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/linkedin.svg" style="vertical-align:top "/>
+    <img alt="Linkedin" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/linkedin.svg"+ style="vertical-align:top "/>
   </a>
 
   <a href="https://www.instagram.com/abhiram_kalyan/">
