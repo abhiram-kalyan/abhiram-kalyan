@@ -17,9 +17,11 @@
   <br>
   <p align="center">
   <img src = "https://komarev.com/ghpvc/?username=kaushik116k&color=yellow">
+    
+     <p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhriam-kalyan">
   </p>
-  <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k">
+ 
 </p>
 
 ## ✉️ Find me on:
