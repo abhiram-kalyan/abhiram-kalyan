@@ -17,13 +17,13 @@
   <br>
   <p align="center">
   <img src = "https://komarev.com/ghpvc/?username=kaushik116k&color=yellow">
-    
-     <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhriam-kalyan">
+   
   </p>
  
 </p>
-
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram-kalyan">
+</p>
 ## ✉️ Find me on:
 
 <p align="center">
