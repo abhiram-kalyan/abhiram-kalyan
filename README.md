@@ -17,16 +17,13 @@
 </p>
 ## ✉️ Find me on:
 
-
-### Trying to get in touch? 📞
-
 <p align="center">
   <a href="mailto:abhiramkalyan9@gmail.com">
     <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/svijayb/">
-    <img alt="Linkedin" src="https://www.linkedin.com/in/abhiram-kalyan-883445190" style="vertical-align:top "/>
+  <a href="https://www.linkedin.com/in/abhiram-kalyan-883445190/">
+    <img alt="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/linkedin.svg" style="vertical-align:top "/>
   </a>
 
   <a href="https://www.instagram.com/abhiram_kalyan/">
