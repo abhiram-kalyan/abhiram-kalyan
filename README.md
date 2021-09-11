@@ -15,7 +15,7 @@
 
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=abhiram-kalyan">
 </p>
-### ✉️ Find me on:
+## ✉ Find me on:
 
 <p align="center">
   <a href="mailto:abhiramkalyan9@gmail.com">
