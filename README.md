@@ -18,23 +18,15 @@
 
 <p align="center">
   <a href="mailto:abhiramkalyan9@gmail.com">
-    <img alt="Gmail" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" style="vertical-align:top margin:6px 4px"/>
+    <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg+" style="vertical-align:top"/>
   </a>
 
   <a href="https://www.linkedin.com/in/svijayb/">
-    <img alt="Linkedin" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/linkedin.svg" style="vertical-align:top margin:6px 4px"/>
+    <img alt="Linkedin" src="https://www.linkedin.com/in/abhiram-kalyan-883445190" style="vertical-align:top "/>
   </a>
 
-  <a href="https://twitter.com/VijaybalajiS1">
-    <img alt="Twitter" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/twitter.svg" style="vertical-align:top margin:6px 4px"/>
-  </a>
-
-  <a href="https://www.instagram.com/s.vj._/">
-    <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
-  </a>
-
-  <a href="https://steamcommunity.com/id/strangelychaotic">
-    <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/steam.svg" style="vertical-align:top margin:6px 4px"/>
+  <a href="https://www.instagram.com/abhiram_kalyan/">
+    <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top "/>
   </a>
 </p>
 
