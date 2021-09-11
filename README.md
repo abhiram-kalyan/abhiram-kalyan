@@ -14,6 +14,12 @@
   
 
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=abhiram-kalyan">
+  <br>
+  <p align="center">
+  <img src = "https://komarev.com/ghpvc/?username=kaushik116k&color=yellow">
+  </p>
+  <p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik116k">
 </p>
 
 ## ✉️ Find me on:
