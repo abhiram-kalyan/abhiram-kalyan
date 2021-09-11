@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="mailto:abhiramkalyan9@gmail.com">
-    <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg+" style="vertical-align:top"/>
+    <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top"/>
   </a>
 
   <a href="https://www.linkedin.com/in/svijayb/">
