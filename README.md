@@ -20,10 +20,6 @@
    
   </p>
  
-</p>
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram-kalyan">
-</p>
 ## ✉️ Find me on:
 
 <p align="center">
