@@ -48,4 +48,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 <br>
-<img src = "https://activity-graph.herokuapp.com/graph?username=kaushik116k&theme=react-dark">
+<img src = "https://activity-graph.herokuapp.com/graph?username=abhiram-kalyan&theme=react-dark">
